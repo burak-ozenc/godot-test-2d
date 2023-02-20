@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lM42hEiMeKXv5SmbkjoQY1P+yt098zxyBatlkMElAlXw9nEpJNH1l6N6fHXFT6Op40DzSgG7kR7BAEPRBv7wZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Projects\\godot-2d-game-test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

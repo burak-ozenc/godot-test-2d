@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\bin\Debug\test.dll
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\bin\Debug\test.pdb
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\obj\Debug\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\obj\Debug\test.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\obj\Debug\test.AssemblyInfo.cs
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\obj\Debug\test.dll
+C:\Users\LENOVO\Projects\godot-2d-game-test\.mono\temp\obj\Debug\test.pdb
